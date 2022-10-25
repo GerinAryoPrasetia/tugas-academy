@@ -1,0 +1,7 @@
+
+
+1. git init ->> inisialisasi *first_time
+2. git add . -->> track files
+3. git commit -m "pesan commit" ---> commit
+4. git remote add origin url_repo --> konek ke repo *first_time
+5. git push origin branch_name 
